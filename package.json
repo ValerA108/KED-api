@@ -1,0 +1,20 @@
+{
+  "name": "KED-api",
+  "version": "1.0.0",
+  "description": "Ked API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValerA108/KED-api.git"
+  },
+  "keywords": [],
+  "author": "Valeron",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "1.0.0-alpha.23"
+  }
+}
